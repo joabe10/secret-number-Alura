@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300&display=swap');
+
+:root {
+    --font-family: 'Arima', cursive;
+    --primary-color: #252B48; 
+    --secondary-color: #5B9A8B;
+    --terciary-color: #445069;
+}
+
+body {
+    background-color: var(--primary-color);
+    font-family: var(--font-family);
+    color: var(--secondary-color);
+    
+
+}
+
+section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px dotted var(--secondary-color);
+    padding: 20px;  
+    text-align: center;
+}
+
+h1 {
+    font-size: 4em;
+    padding-bottom: 1rem;
+}
+
+.box {
+    border: 2px solid var(--terciary-color);
+    display: inline-block;
+    font-size: 4rem;
+    padding: 20px;
+    margin: 20px;
+}
