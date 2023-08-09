@@ -3,7 +3,7 @@
 :root {
     --font-family: 'Arima', cursive;
     --primary-color: #252B48; 
-    --secondary-color: #5B9A8B;
+    --secondary-color: #5b9a8b;
     --terciary-color: #445069;
 }
 
@@ -12,10 +12,6 @@ body {
     font-family: var(--font-family);
     color: var(--secondary-color);
     
-
-}
-
-section {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -24,6 +20,8 @@ section {
     padding: 20px;  
     text-align: center;
 }
+
+
 
 h1 {
     font-size: 4em;
