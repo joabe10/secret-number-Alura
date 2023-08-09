@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: var(--primary-color);
+    background: var(--primary-color);
     font-family: var(--font-family);
     color: var(--secondary-color);
     
