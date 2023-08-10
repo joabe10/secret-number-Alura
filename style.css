@@ -29,6 +29,11 @@ h1 {
     padding-bottom: 1rem;
 }
 
+h2 {
+    font-size: 4rem;
+    padding-bottom: 1rem;
+}
+
 .box {
     border: 2px solid var(--terciary-color);
     display: inline-block;
