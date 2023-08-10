@@ -2,8 +2,9 @@
 
 :root {
     --font-family: 'Arima', cursive;
-    --primary-color: #252B48; 
-    --secondary-color: #5b9a8b;
+    --primary-color: #000000; 
+    --secondary-color: rgba(255, 255, 0, 0.776); 
+    /* #5b9a8b; */
     --terciary-color: #445069;
 }
 
